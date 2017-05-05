@@ -11,5 +11,6 @@ public class poly2 extends Polymorphism {
 		Polymorphism a=new poly2();
 		a.area(2,3);
 		a.area(5);
+/fvvc
 	}
 }
